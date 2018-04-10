@@ -1,2 +1,2 @@
-# HTML Website for the Computer Science Certificate
+# HTML Website for the Computer Science Certificate - The New Seven Wonders of the World
 For the Computer Science Certificate I created a website about The New Seven Wonders of the World. This project was coded in HTML language, in the Aptana Studio program, and for styling I used CSS language. This website contains texts, pictures, a menu bar, and also a quiz, for which I learned the PHP language, and used also phpMyAdmin and MySQL. The quiz game's questions and answers are kept in a database. At the end of the quiz the user gets a certification depending on the number of the right answers.
